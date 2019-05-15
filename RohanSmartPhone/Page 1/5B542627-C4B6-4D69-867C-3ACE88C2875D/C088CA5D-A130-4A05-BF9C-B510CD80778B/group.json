@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C088CA5D-A130-4A05-BF9C-B510CD80778B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4B6DD08-E4E5-42D6-BEF0-24DFD8F99AE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3FAEFD1B-412A-4BE7-8726-D3BC26716500",
+    "height": 45,
+    "width": 45,
+    "x": 165,
+    "y": 276
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "F1E3866B-E714-48A0-AD3F-3DBED368208F"
+    },
+    {
+      "class": "group",
+      "id": "387EE3DB-A442-474D-AE8D-C16AAE9F574E"
+    }
+  ],
+  "name": "Ellipse",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "35AF8E7E-41D6-4B92-8093-27B53FA2873F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
