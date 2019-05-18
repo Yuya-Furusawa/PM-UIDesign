@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.2862745098039217,
-    "green": 0.06274509803921567,
-    "red": 0.3647058823529412
+    "blue": 0.8392156862745098,
+    "green": 0.796078431372549,
+    "red": 0.7058823529411765
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -67,8 +67,28 @@
       "id": "7FDD373A-0A77-4FFE-85FD-345A9516D1E6"
     },
     {
+      "class": "rectangle",
+      "id": "25E0D9DA-AD85-4D4F-92FE-511FBCA6788F"
+    },
+    {
       "class": "group",
-      "id": "566D14C4-476B-4F12-B212-DDA0392AD913"
+      "id": "30BE1A1C-6361-4E46-9DA8-D05D9F33C64A"
+    },
+    {
+      "class": "group",
+      "id": "C845289B-6D2D-4412-AD3D-6584EDB0861E"
+    },
+    {
+      "class": "group",
+      "id": "BDD664E7-F0A8-4F45-A8EE-3887906E3C6D"
+    },
+    {
+      "class": "group",
+      "id": "065F67FA-1172-4A1E-A851-A0A82689E8B0"
+    },
+    {
+      "class": "triangle",
+      "id": "7996201F-B1C9-4430-AD7D-5696E4C90AB2"
     }
   ],
   "name": "Market Portofolio",

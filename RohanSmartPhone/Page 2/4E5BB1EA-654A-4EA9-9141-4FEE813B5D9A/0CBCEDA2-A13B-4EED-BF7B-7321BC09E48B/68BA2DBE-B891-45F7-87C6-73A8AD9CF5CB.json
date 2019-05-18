@@ -2,7 +2,7 @@
   "_class": "oval",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "82D49340-CF0F-4834-96DE-97683D653A08",
+  "do_objectID": "68BA2DBE-B891-45F7-87C6-73A8AD9CF5CB",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,8 +18,8 @@
     "constrainProportions": true,
     "height": 6,
     "width": 6,
-    "x": 33,
-    "y": 355
+    "x": 0,
+    "y": 3
   },
   "hasClippingMask": false,
   "isClosed": true,

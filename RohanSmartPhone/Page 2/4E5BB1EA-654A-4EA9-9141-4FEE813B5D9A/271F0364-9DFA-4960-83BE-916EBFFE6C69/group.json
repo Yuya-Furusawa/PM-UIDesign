@@ -1,12 +1,10 @@
 {
-  "_class": "bitmap",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "DCD9980C-BF82-46D7-9153-7324F9FA5457",
+  "do_objectID": "271F0364-9DFA-4960-83BE-916EBFFE6C69",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6EA7F870-4B21-47C5-BCF8-8C9889DAFB8C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,30 +12,33 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "473DBDF0-73AB-41B9-B3E5-49D2CD1117A4",
-    "height": 25,
-    "width": 25,
-    "x": 272,
-    "y": 15
+    "constrainProportions": false,
+    "height": 12,
+    "width": 105,
+    "x": 33,
+    "y": 302
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/fb5cc8b27a862e58eb97fb8bf5db2a6524e54387.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矢印アイコン　上2",
+  "layers": [
+    {
+      "class": "text",
+      "id": "4A2C7682-5DF5-42FB-ABAE-91D2B1422974"
+    },
+    {
+      "class": "oval",
+      "id": "82D49340-CF0F-4834-96DE-97683D653A08"
+    }
+  ],
+  "name": "Group 7",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,7 +46,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "48492C10-D22B-409D-9E89-4A2A836FF194",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

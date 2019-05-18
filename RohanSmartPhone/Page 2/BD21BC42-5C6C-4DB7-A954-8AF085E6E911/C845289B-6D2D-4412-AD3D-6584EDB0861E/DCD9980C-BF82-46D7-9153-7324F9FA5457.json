@@ -3,10 +3,10 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "23958ABB-7AA7-4D3F-BDA1-58466700A3EF",
+  "do_objectID": "DCD9980C-BF82-46D7-9153-7324F9FA5457",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "998D1764-6FAE-46A8-AB76-D4F80D8AE1DA",
+    "do_objectID": "6EA7F870-4B21-47C5-BCF8-8C9889DAFB8C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "F2505AE3-B7B5-4A7B-B035-F17B878A3CF7",
-    "height": 20,
-    "width": 20,
-    "x": 186,
-    "y": 543
+    "do_objectID": "473DBDF0-73AB-41B9-B3E5-49D2CD1117A4",
+    "height": 25,
+    "width": 25,
+    "x": 272,
+    "y": 15
   },
   "hasClippingMask": false,
   "image": {
@@ -45,8 +45,26 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4352181C-2053-4309-8544-7F02F06BB83D",
+    "do_objectID": "48492C10-D22B-409D-9E89-4A2A836FF194",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2902374565601349,
+          "green": 0.2901752889156342,
+          "red": 0.290221631526947
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1

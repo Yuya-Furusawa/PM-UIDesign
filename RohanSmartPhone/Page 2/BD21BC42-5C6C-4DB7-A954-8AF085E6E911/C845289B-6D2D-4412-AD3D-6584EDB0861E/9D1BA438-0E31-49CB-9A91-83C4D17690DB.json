@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HiraginoSans-W5",
+              "name": "HiraginoSans-W6",
               "size": 12
             }
           },
@@ -26,19 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Buy / Sell を選ぶ"
+    "string": "Order"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7A768DD2-6219-479C-A78F-B61A0F2BF3E9",
+  "do_objectID": "9D1BA438-0E31-49CB-9A91-83C4D17690DB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2F1E00EB-663E-43D0-A45B-AA2926B96F05",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "1B7B007E-70E4-4FB4-815A-0D4B2D674BA0",
     "height": 12,
-    "width": 100,
-    "x": 48,
-    "y": 267
+    "width": 38,
+    "x": 265,
+    "y": 43
   },
-  "glyphBounds": "{{0, 1}, {100, 13}}",
+  "glyphBounds": "{{0, 1}, {38, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Buy / Sell を選ぶ",
+  "name": "Order",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -71,11 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "CAC519F1-AA99-4961-83EF-0B2A34956CC3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "485C67AC-9228-41CE-B759-AC48D609152B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -87,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HiraginoSans-W5",
+            "name": "HiraginoSans-W6",
             "size": 12
           }
         },
@@ -101,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

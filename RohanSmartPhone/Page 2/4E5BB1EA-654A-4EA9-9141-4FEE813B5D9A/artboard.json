@@ -68,7 +68,7 @@
     },
     {
       "class": "rectangle",
-      "id": "976ACD61-40C8-4A6E-A665-6C88DD21CBA7"
+      "id": "FDEC26AC-8465-49FA-8B76-59A8D9355D0F"
     },
     {
       "class": "triangle",
@@ -77,10 +77,6 @@
     {
       "class": "group",
       "id": "3ECA489F-AC36-48C2-A85A-BF008F8A967A"
-    },
-    {
-      "class": "bitmap",
-      "id": "23958ABB-7AA7-4D3F-BDA1-58466700A3EF"
     },
     {
       "class": "group",
@@ -99,28 +95,16 @@
       "id": "07880E3B-0EEA-4A23-BFE6-247D09C9EB99"
     },
     {
-      "class": "text",
-      "id": "E621BDDA-0FE3-415E-97A0-5022BAFAA145"
+      "class": "group",
+      "id": "0CBCEDA2-A13B-4EED-BF7B-7321BC09E48B"
     },
     {
-      "class": "text",
-      "id": "7A768DD2-6219-479C-A78F-B61A0F2BF3E9"
+      "class": "group",
+      "id": "5BFD251A-DB23-4628-8848-1FF91EAAB2C8"
     },
     {
-      "class": "text",
-      "id": "4A2C7682-5DF5-42FB-ABAE-91D2B1422974"
-    },
-    {
-      "class": "oval",
-      "id": "68BA2DBE-B891-45F7-87C6-73A8AD9CF5CB"
-    },
-    {
-      "class": "oval",
-      "id": "032D2DB6-D70D-4A9B-A5F1-F0B2BD565994"
-    },
-    {
-      "class": "oval",
-      "id": "82D49340-CF0F-4834-96DE-97683D653A08"
+      "class": "group",
+      "id": "271F0364-9DFA-4960-83BE-916EBFFE6C69"
     }
   ],
   "name": "Market Top Copy",

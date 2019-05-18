@@ -19,8 +19,8 @@
     "do_objectID": "9917B593-26F2-472A-A594-8DD234744503",
     "height": 61,
     "width": 299,
-    "x": 48,
-    "y": 534
+    "x": 38,
+    "y": 500
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,6 +34,10 @@
     {
       "class": "rectangle",
       "id": "C9F221C2-11EC-446C-AD5D-B43EB7937777"
+    },
+    {
+      "class": "bitmap",
+      "id": "23958ABB-7AA7-4D3F-BDA1-58466700A3EF"
     },
     {
       "class": "text",
