@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "566D14C4-476B-4F12-B212-DDA0392AD913",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 441,
+    "width": 375,
+    "x": 0,
+    "y": 232
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "25E0D9DA-AD85-4D4F-92FE-511FBCA6788F"
+    },
+    {
+      "class": "group",
+      "id": "30BE1A1C-6361-4E46-9DA8-D05D9F33C64A"
+    },
+    {
+      "class": "group",
+      "id": "C845289B-6D2D-4412-AD3D-6584EDB0861E"
+    },
+    {
+      "class": "group",
+      "id": "BDD664E7-F0A8-4F45-A8EE-3887906E3C6D"
+    },
+    {
+      "class": "group",
+      "id": "065F67FA-1172-4A1E-A851-A0A82689E8B0"
+    },
+    {
+      "class": "triangle",
+      "id": "7996201F-B1C9-4430-AD7D-5696E4C90AB2"
+    }
+  ],
+  "name": "Portofolio",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

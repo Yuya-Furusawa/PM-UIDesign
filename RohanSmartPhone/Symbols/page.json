@@ -67,6 +67,14 @@
     {
       "class": "group",
       "id": "8E1E5DE6-D85C-4710-838E-14CBCA90F5DD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "63F9A623-71AB-4635-BB68-337BCD7A40D1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B3FAC4A4-A676-44EC-958A-CBB879DD7E99"
     }
   ],
   "name": "Symbols",

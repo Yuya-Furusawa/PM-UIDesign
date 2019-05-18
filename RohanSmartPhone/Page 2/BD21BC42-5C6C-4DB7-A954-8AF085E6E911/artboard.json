@@ -1,0 +1,101 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.2862745098039217,
+    "green": 0.06274509803921567,
+    "red": 0.3647058823529412
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD21BC42-5C6C-4DB7-A954-8AF085E6E911",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 287,
+    "y": -334
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "84E74E49-3429-40B0-B15E-E8B06B89DE08"
+    },
+    {
+      "class": "group",
+      "id": "23276068-3AA4-4D94-B6BA-E799F0FE0F32"
+    },
+    {
+      "class": "group",
+      "id": "A8D8786D-4BD5-4619-B2F3-2C181FDEA36F"
+    },
+    {
+      "class": "group",
+      "id": "1AA34904-CEB0-478F-9B30-49B371E30C89"
+    },
+    {
+      "class": "group",
+      "id": "7FDD373A-0A77-4FFE-85FD-345A9516D1E6"
+    },
+    {
+      "class": "group",
+      "id": "566D14C4-476B-4F12-B212-DDA0392AD913"
+    }
+  ],
+  "name": "Market Portofolio",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
