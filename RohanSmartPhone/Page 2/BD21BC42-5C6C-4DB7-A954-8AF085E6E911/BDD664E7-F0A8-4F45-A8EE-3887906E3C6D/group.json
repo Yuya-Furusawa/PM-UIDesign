@@ -72,8 +72,8 @@
       "id": "28E8B230-6E49-419F-B20C-8CEC9D9DF323"
     }
   ],
-  "name": "Group 9",
-  "nameIsFixed": false,
+  "name": "Portofolio",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

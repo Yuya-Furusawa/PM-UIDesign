@@ -54,8 +54,8 @@
       "id": "E39CA720-B67E-452E-B257-EFD2ECBBF99C"
     }
   ],
-  "name": "Group 4",
-  "nameIsFixed": false,
+  "name": "Bottom Bar",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

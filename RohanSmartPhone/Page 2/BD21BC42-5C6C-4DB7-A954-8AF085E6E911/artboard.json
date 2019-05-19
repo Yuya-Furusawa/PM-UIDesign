@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -68,11 +68,11 @@
     },
     {
       "class": "rectangle",
-      "id": "25E0D9DA-AD85-4D4F-92FE-511FBCA6788F"
+      "id": "AE35885E-4306-4305-8855-5296A0B76DEC"
     },
     {
       "class": "group",
-      "id": "30BE1A1C-6361-4E46-9DA8-D05D9F33C64A"
+      "id": "19E1C0B6-C7C8-44F5-9D50-47FA6E6B862A"
     },
     {
       "class": "group",
@@ -83,12 +83,12 @@
       "id": "BDD664E7-F0A8-4F45-A8EE-3887906E3C6D"
     },
     {
-      "class": "group",
-      "id": "065F67FA-1172-4A1E-A851-A0A82689E8B0"
-    },
-    {
       "class": "triangle",
       "id": "7996201F-B1C9-4430-AD7D-5696E4C90AB2"
+    },
+    {
+      "class": "shapePath",
+      "id": "B8A5A90A-9D68-4E69-AF1D-745BEC7D1AE3"
     }
   ],
   "name": "Market Portofolio",
