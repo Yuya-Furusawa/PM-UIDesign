@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A8D9728B-67EE-4BD2-956E-8A8AB522B67E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A54AF175-6EED-48CE-A35E-A06120FC07A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4483EF1A-643D-4C7B-995F-C14EBE2EE782",
+    "height": 39,
+    "width": 313,
+    "x": 16.72881355932199,
+    "y": 40.05633802816904
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3AF5B422-ED7E-4EE5-B20C-E150983550CE"
+    },
+    {
+      "class": "text",
+      "id": "35E434B9-94AD-442D-91F2-11880473DD8D"
+    },
+    {
+      "class": "shapePath",
+      "id": "691EADEC-D35B-471C-BDB5-83EE3E2E43A4"
+    }
+  ],
+  "name": "Dropdown / Token",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FCF7085C-C70A-4669-B960-A2013A2BFAC4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

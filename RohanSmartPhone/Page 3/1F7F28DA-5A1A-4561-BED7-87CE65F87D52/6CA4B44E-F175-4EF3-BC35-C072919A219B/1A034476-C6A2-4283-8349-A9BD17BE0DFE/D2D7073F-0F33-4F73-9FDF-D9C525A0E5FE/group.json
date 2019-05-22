@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D2D7073F-0F33-4F73-9FDF-D9C525A0E5FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "550D40F1-D032-426E-BCBA-CB06C88899A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2FFDB3C2-D722-473E-9693-38F765C9A83D",
+    "height": 63,
+    "width": 330,
+    "x": 0,
+    "y": 104
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "16E162EA-FE2F-43A4-AC7F-80F4C88A2FDC"
+    },
+    {
+      "class": "group",
+      "id": "C04016ED-65D3-4951-A17B-7220BCC86A7E"
+    }
+  ],
+  "name": "Buy/Sell",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "545DFF78-637B-4419-BE0B-F9C56CDE66E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

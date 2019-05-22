@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "80D4F001-069D-4E37-B25B-A9401752D98F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC1772C5-EC4D-470A-BB67-E25808D83E0B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "348FCEAD-6AC4-4FAC-BA70-D0959D14F059",
+    "height": 53,
+    "width": 329,
+    "x": 0,
+    "y": 414
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "55A84CA4-6C29-4EF5-A53B-02499E53EE91"
+    },
+    {
+      "class": "bitmap",
+      "id": "880220B6-EAF2-48B3-952D-41B1915751BD"
+    },
+    {
+      "class": "text",
+      "id": "F3D33D65-A64F-41F9-9F54-6FC4EDC00EB0"
+    }
+  ],
+  "name": "Block Button success",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA85B3B1-49F6-438E-B6CC-C4507A3C9E5D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

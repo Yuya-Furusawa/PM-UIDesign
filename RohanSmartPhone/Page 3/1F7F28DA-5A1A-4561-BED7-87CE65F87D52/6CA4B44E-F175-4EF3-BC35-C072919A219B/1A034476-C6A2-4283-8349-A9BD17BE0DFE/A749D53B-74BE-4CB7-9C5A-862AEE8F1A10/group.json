@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A749D53B-74BE-4CB7-9C5A-862AEE8F1A10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62F52DE9-DA57-4068-B6D9-A5D17F0F859F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "DB09DEA5-D466-442F-B375-29E7891DD838",
+    "height": 165,
+    "width": 330,
+    "x": 0,
+    "y": 208
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8F29BE93-607B-41AB-98CE-BE45C9B52968"
+    },
+    {
+      "class": "group",
+      "id": "EEDECE88-998B-4743-BA16-A578628C645D"
+    },
+    {
+      "class": "group",
+      "id": "755519EA-807D-4A57-9EBE-691C8F69F405"
+    }
+  ],
+  "name": "取引量",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A377F60-C25C-4C00-A0E7-44A7900519CB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

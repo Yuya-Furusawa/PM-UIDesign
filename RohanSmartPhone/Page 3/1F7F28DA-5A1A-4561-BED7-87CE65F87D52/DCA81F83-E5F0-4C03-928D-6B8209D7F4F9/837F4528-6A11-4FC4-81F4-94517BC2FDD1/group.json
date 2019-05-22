@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "837F4528-6A11-4FC4-81F4-94517BC2FDD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A7DFC46D-DCFC-4969-9292-32CA8C89DEF7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "39B9FB9C-59B9-4ABD-A1EB-2ED47A3E6500",
+    "height": 177,
+    "width": 385,
+    "x": 14,
+    "y": 475
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "193619BA-6CA7-4167-B51B-1317D533402A"
+    },
+    {
+      "class": "group",
+      "id": "338EFAEA-0526-4519-A5C8-E988F3D82436"
+    },
+    {
+      "class": "group",
+      "id": "B2B8C3E2-6254-43FC-9E71-C4E64CB012CF"
+    }
+  ],
+  "name": "Trading History",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D7A5EC7B-F04A-4EC4-A11D-B06D88E6F8E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

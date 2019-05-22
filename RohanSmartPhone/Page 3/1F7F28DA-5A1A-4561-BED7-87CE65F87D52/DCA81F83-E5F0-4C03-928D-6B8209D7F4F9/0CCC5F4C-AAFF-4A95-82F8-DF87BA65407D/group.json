@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0CCC5F4C-AAFF-4A95-82F8-DF87BA65407D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 249,
+    "width": 240,
+    "x": 58,
+    "y": 44
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0C4BCFB0-F96F-45A9-98D7-A8A892D59C74"
+    },
+    {
+      "class": "text",
+      "id": "7354B4BF-64FA-4B9B-8077-F5FA5FF18E78"
+    },
+    {
+      "class": "text",
+      "id": "8E3484C5-DFD8-4ECF-B499-9BF79EBEDF33"
+    },
+    {
+      "class": "text",
+      "id": "0E9FE41F-C066-4731-9001-3F9C04A7809B"
+    }
+  ],
+  "name": "Portofolio",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
